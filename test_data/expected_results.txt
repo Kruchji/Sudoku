@@ -1,0 +1,33 @@
+input1.txt
+2 9 8 |3 4 1 |6 5 7 
+4 7 5 |8 6 2 |1 3 9 
+3 1 6 |9 7 5 |4 8 2 
+------+------+------
+1 2 7 |6 5 4 |8 9 3 
+5 8 4 |1 9 3 |2 7 6 
+6 3 9 |2 8 7 |5 1 4 
+------+------+------
+8 4 2 |7 1 9 |3 6 5 
+9 6 3 |5 2 8 |7 4 1 
+7 5 1 |4 3 6 |9 2 8 
+
+input2.txt
+Initial puzzle is not a valid sudoku!  (there are two solutions -> invalid)
+
+input3.txt
+Initial puzzle is not a valid sudoku!  (there are two number 5 next to each other -> unsolvable)
+
+input4.txt
+Initial puzzle is not a valid sudoku!  (only 16 numbers filled -> need at least 17 for a valid sudoku)
+
+input5.txt
+Initial puzzle is not a valid sudoku!  (numbers 1 and 7 are not in input -> at least 8 different digits required for valid sudoku)
+
+input6.txt (Arto Inkala's hardest sudoku puzzle)
+812753649943682175675491283154237896369845721287169534521974368438526917796318452
+
+input7.txt (Weekly Unsolvable #528)
+864932751739514286215678394196843527382756149547129863621395478478261935953487612
+
+input8.txt (Weekly Unsolvable #28 - Hardest sudoku puzzle according to sudokuwiki.org)
+864932751739514286215678394196843527382756149547129863621395478478261935953487612
